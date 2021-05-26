@@ -5,7 +5,7 @@
     <title>Envoi formulaire en mail</title>
   </head>
   <body>
-    <form class="" action="cible2.php" method="post">
+    <form class="" action="TemplateMail.php" method="post">
       <input type="text" name="nom" placeholder="Entrez votre nom...">
       <input type="text" name="prenom" placeholder="Entrez votre prenom...">
       <input type="mail" name="mail" placeholder="Entrez votre mail...">
